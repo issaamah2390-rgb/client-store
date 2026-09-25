@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { product } from '../../../page';
+import { product } from '../../page';
 
 export default function ProductPage() {
   return (
